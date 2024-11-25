@@ -1,0 +1,53 @@
+[
+	{
+	  "id": 1,
+	  "cover": "https://i.ibb.co.com/Wtx4SV4/2.png",
+	  "title": "The Art of Web Development",
+	  "author_img": "https://i.ibb.co.com/4VYqXYC/sh.jpg",
+	  "author": "John Doe", 
+	  "posted_date": "2024-11-01",
+	  "reading_time": 10,
+	  "hashtags": ["#WebDevelopment", "#Programming"]
+	},
+	{
+	  "id": 2,
+	  "cover": "https://i.ibb.co.com/FWzP0JX/4.jpg",
+	  "title": "Mastering React Basics",
+	  "author_img": "https://i.ibb.co.com/4VYqXYC/sh.jpg",
+	  "author": "Jane Smith",
+	  "posted_date": "2024-11-10",
+	  "reading_time": 8,
+	  "hashtags": ["#ReactJS", "#Frontend"]
+	},
+	{
+	  "id": 3,
+	  "cover": "https://i.ibb.co.com/FgLhWZx/3.png",
+	  "title": "UI/UX Design Principles",
+	  "author_img": "https://i.ibb.co.com/4VYqXYC/sh.jpg",
+	  "author": "Emily Johnson",
+	  "posted_date": "2024-10-15",
+	  "reading_time": 12,
+	  "hashtags": ["#Design", "#UserExperience"]
+	},
+	{
+	  "id": 4,
+	  "cover": "https://i.ibb.co.com/qpSZnWf/1.jpg",
+	  "title": "The Future of AI in Education",
+	  "author_img": "https://i.ibb.co.com/4VYqXYC/sh.jpg",
+	  "author": "Michael Brown",
+	  "posted_date": "2024-09-20",
+	  "reading_time": 15,
+	  "hashtags": ["#AI", "#Education"]
+	},
+	{
+	  "id": 5,
+	  "cover": "https://i.ibb.co.com/WfjqftP/7105523.jpg",
+	  "title": "Building Scalable Applications",
+	  "author_img": "https://i.ibb.co.com/4VYqXYC/sh.jpg",
+	  "author": "Sophia Davis",
+	  "posted_date": "2024-08-30",
+	  "reading_time": 9,
+	  "hashtags": ["#Scalability", "#Backend"]
+	}
+  ]
+  
