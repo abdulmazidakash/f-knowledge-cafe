@@ -18,4 +18,5 @@ Currently, two official plugins are available:
 - daisy ui
 - vite
 
-<img src='https://prnt.sc/9xSF3HBYsuFD'/>
+<img />
+<img src='https://i.ibb.co.com/D9NYzX0/knowledge-cafe.jpg' alt="React Logo" width="300" />
